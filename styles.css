@@ -13,9 +13,9 @@
         background-color: var(--cor-de-fundo);
         }
 
-       body {
-    transform: rotate(180deg);
-}
+        body {
+            transform: rotate(180deg);
+        }
 
 
         
